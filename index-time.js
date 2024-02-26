@@ -24,5 +24,5 @@ const getTimeString = async () => {
 };
 
 
-// Fetch a new quote every 10 seconds
-setInterval(getTimeString, 10000);
+// Fetch a new quote every 2 seconds
+setInterval(getTimeString, 2000);
