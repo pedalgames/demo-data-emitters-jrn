@@ -1,4 +1,8 @@
 // Function to fetch a quote and send it as a POST request
+
+// Uses public api at api.quotable.io
+// See https://github.com/lukePeavey/quotable
+
 const fetchQuote = async () => {
   try {
     const response = await fetch('https://api.quotable.io/random');
