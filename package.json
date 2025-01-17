@@ -1,6 +1,6 @@
 {
   "name": "plugin-emitter-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo tool sending data to Pedal Games",
   "main": "index.js",
   "scripts": {
